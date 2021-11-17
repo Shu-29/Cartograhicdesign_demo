@@ -1,9 +1,9 @@
 # Your Project Title
 
 ## Authors
-Name:XXXX
-Email:XXXX
-Program:XXXX
+Name:Shu
+Email:shu.li@ttu.edu
+Program:Final Project
 
 ## Introduction
 
